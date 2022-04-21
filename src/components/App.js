@@ -6,6 +6,14 @@ const App = () => {
     <div id="main">
       <div id="shape-creator">
         
+    <select>
+      <option>Square</option>
+      <option>Circle</option>
+    </select>
+
+    <button>Add shape</button>
+
+
 
       </div>
       <div id="shapes-holder">
